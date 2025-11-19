@@ -3,7 +3,7 @@
 A modern, responsive weather web application with a beautiful glassmorphism UI.
 
 ## Live Demo
-[Click here to view live](https://your-username.github.io/weatherpro)  
+[Click here to view live](https://9kwds3.csb.app/)  
 (Replace with your actual deployed link)
 
 ## Features
